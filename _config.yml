@@ -1,4 +1,3 @@
-layout_spectrum: 0.4535916824825108
 typography_spectrum: 0.2896112888120115
 color:
   brandStrength: 0.5507213468663394
@@ -11,4 +10,6 @@ color:
     - '#B3BFB8'
     - '#F0F7F4'
     - '#A2E3C4'
+layout_spectrum: 0.4535916824825108
 name: Test
+title: Testing Site
